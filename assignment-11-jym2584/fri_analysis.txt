@@ -1,0 +1,40 @@
+Noun: patron, books, shelve, want list, title, author, copies, catalog, ID, name, electronic card
+
+Noun Answer: library, patron, book, shelves, want list, time, title, author, catalog of books, csv file, ID, name, card catalog
+(patrons sec
+(has list)
+
+verb: checkout return find
+
+--------------------
+Class
+    Attributes: Type
+--------------------
+
+Book
+    Title: str
+    Author:str
+    Copies: int
+
+Patron
+    ID: int
+    Name: str
+    Wants: set(Book)
+    Has: set(Book)
+
+Library
+    Patrons: dict{id: Patron}
+    Shelves: list(Book)
+    card_catalog: CardCatalog
+
+CardCatalog
+    books_by_author: dict{author: [Book]}
+    books_by_title:  dict{title: [Book]}
+
+
+Collection Type Questions:
+    - Are the values unique?
+    - How often will I need to access them?
+    - Is the order important?
+    - Will they ever change?
+    - Is there inter-related data? (if author and title are related to each other)

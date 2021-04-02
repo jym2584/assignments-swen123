@@ -1,0 +1,7 @@
+s 0 0 5 green
+r 3 3 4 7 red
+o 10 5 3 orange
+t 3 10 5 blue
+d 12 12 8 yellow
+s 0 15 3 purple
+r 15 0 4 8 yellowgreen

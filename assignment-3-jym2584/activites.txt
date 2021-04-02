@@ -1,0 +1,41 @@
+not
+T --> F
+F --> T
+
+==
+T and T = T
+T and F = F
+F and T = F
+F and F = T
+
+is
+T and T = T
+T and F = F
+F and T = F
+F and F = T
+
+!=
+T and T = F
+T and F = T
+F and T = T
+F and F = F
+
+^
+T and T = F
+T and F = T
+F and T = T
+F and F = F
+
+and
+T and T = T
+T and F = F
+F and T = F
+F and F = F
+
+or
+T and T = T
+T and F = T
+F and T = T
+F and F = F
+
+3.2.4 ---> h=sqrt(b^2-(1/2b)^2)

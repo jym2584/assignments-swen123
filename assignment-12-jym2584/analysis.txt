@@ -1,0 +1,25 @@
+Cards
+    name: str
+    cost: int
+    rarity: str
+    faction: str
+    atk_pow: int
+    health: int
+    skill: Power
+
+Player
+    name: str
+    score: int
+    resource_points: int 
+    deck_cards: list # their deck if it's either goats or trolls
+    hand_cards: list # their current hand
+
+    Functions: Battle, Damage, Add resource points, Draw card, take turn
+
+Power
+    name: str
+    description: str
+    single_use: True/False
+    power: power()
+
+Functions: Round

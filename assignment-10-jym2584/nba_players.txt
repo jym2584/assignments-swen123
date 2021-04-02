@@ -1,0 +1,27 @@
+Kobe Bryant, Lakers, 5, Retired
+Kareem Adbul-Jabbar, Bucks Lakers, 6, Retired
+Wilt Chamberlain, Warriors 76ers Lakers, 2, Retired
+Magic Johnson, Lakers, 5, Retired
+Lebron James, Cavs Heat Lakers, 4, Active
+Chris Bosh, Raptors Heat, 2, Retired
+Dwyane Wade, Heat Bulls, 3, Retired
+Shaquille O'Neal, Magic Lakers Heat Celtics Cavs, 4, Retired
+Bill Russell, Celtics, 11, Retired
+Larry Bird, Celtics, 3, Retired
+Kevin McHale, Celtics, 3, Retired
+Robert Parish, Warriors Celtics Hornets Bulls, 4, Retired
+Paul Pierce, Celtics Nets Wizards Clippers, 1, Retired
+Kevin Garnet, Timberwolves Celtics Nets, 1, Retired
+Ray Allen, Sonics Celtics Heat, 2, Retired
+Jimmy Bulter, Bulls Heat Timberwolves 76ers, 0, Active
+Michael Jordan, Bulls Wizards, 6, Retired
+Dennis Rodman, Bulls Pistons Spurs, 5, Retired
+Scottie Pippen, Bulls Rockets Trail-Blazers, 6, Retired
+Derrick Rose, Bulls Knicks Pistons, 0, Active
+Manu Ginobili, Spurs, 4, Retired
+Tony Parker, Spurs, 4, Retired
+David Robinson, Spurs, 2, Retired
+Tim Duncan, Spurs, 5, Retired
+Kwahi Leonard, Spurs Raptors Clippers, 2, Active
+Chris Paul, Hornets Clippers Rockets Thunder, 0, Active
+Carmelo Anthony, Nuggets Knicks Trail-Blazers, 0, Active

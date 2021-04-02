@@ -1,0 +1,21 @@
+Cards
+    name: str
+    cost: int
+    rarity: str
+    faction: str
+    atk_pow: int
+    health: int
+    skill: str
+
+Player
+    name: str
+    score: int
+    resource_points: int 
+    deck_cards: 
+    hand_cards: 
+
+Power
+    name: str
+    description: str
+    single_use: True/False
+    power: power()

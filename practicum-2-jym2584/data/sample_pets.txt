@@ -1,0 +1,7 @@
+NAME    TYPE  COLOR    AGE
+Gilbert dog   brown    11 
+Herman  bird  green    27 
+Pokey   turtlebrown    103
+Bingo   bird  blue     11 
+Rascal  snake turquoise5  
+Garfieldcat   orange   44 

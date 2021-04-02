@@ -1,0 +1,21 @@
+NAME    TYPE  COLOR    AGE
+Gilbert dog   brown    11 
+Herman  bird  green    27 
+Pokey   turtlebrown    103
+Bingo   bird  blue     11 
+Rascal  snake turquoise5  
+Fluffy  cat   brown    8  
+Bingo   dog   black    12 
+Bonzo   monkeybrown    69
+Chuck   dog   white    13 
+Garfieldcat   orange   44 
+Snoopy  dog   white    70 
+Mickey  mouse black    95 
+George  monkeybrown    85 
+Max     cat   yellow   15 
+Oscar   cat   brown    11 
+Beakers bird  white    13 
+Jack    dog   yellow   8  
+Greeny  frog  green    7  
+Gus     bird  blue     13 
+Fred    cat   white    8  
